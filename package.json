@@ -1,0 +1,36 @@
+{
+  "name": "my_starter_template",
+  "version": "1.0.0",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "AEK",
+  "contributors": [],
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.2",
+    "jquery": "^3.2.1",
+    "tooltip.js": "^1.1.6"
+  },
+  "description": "my starter template",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darkmift/HelloWorld.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Darkmift/HelloWorld/issues"
+  },
+  "homepage": "https://github.com/Darkmift/HelloWorld#readme"
+}
